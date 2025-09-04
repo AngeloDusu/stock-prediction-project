@@ -13,7 +13,7 @@ This project implements a **Long Short-Term Memory (LSTM)** model to predict sto
 
 ---
 
-## Questions that we will answer :
+## Questions that I will answer :
 
 1. What was the change in price of the stock over time?
 2. What was the daily return of the stock on average?
