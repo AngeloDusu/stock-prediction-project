@@ -13,7 +13,7 @@ This project implements a **Long Short-Term Memory (LSTM)** model to predict sto
 
 ---
 
-## Questions that we will answer :
+## Questions that I will answer :
 
 1. What was the change in price of the stock over time?
 2. What was the daily return of the stock on average?
@@ -30,4 +30,4 @@ https://www.kaggle.com/code/faressayah/stock-market-analysis-prediction-using-ls
 
 notes :
 
-this is pretty hard to understand and to do for me, i feel like i need to open this project a couple of time to understand what is going on, specially the build model part, its so different than what i do last time when i use LSTM model in my project. But because of this I think I can see my self makeing script/ML to tell me when to buy and when to sell stocks. I learn a lot thanks to this project even tho its hard to understand at once. and please give me feedback on what do I need to improve.
+this is pretty hard to understand and to do for me, i feel like i need to open this project a couple of time to understand what is going on, specially the build model part, its so different than what i do last time when i use LSTM model in my project. But because of this I think I can see my self making script/ML to tell me when to buy and when to sell stocks. I learn a lot thanks to this project even tho its hard to understand at once. and please give me feedback on what do I need to improve.
