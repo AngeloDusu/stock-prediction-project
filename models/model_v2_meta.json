@@ -1,0 +1,15 @@
+{
+  "features": [
+    "Close",
+    "Volume",
+    "RSI",
+    "MACD",
+    "MACD_Signal",
+    "BB_Width",
+    "SMA_20",
+    "SMA_50",
+    "Volume_Ratio",
+    "Daily_Return"
+  ],
+  "sequence_length": 60
+}
