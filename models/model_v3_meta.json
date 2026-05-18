@@ -1,0 +1,24 @@
+{
+  "features": [
+    "Close",
+    "Volume",
+    "RSI",
+    "MACD",
+    "MACD_Signal",
+    "BB_Width",
+    "SMA_20",
+    "SMA_50",
+    "Volume_Ratio",
+    "Daily_Return"
+  ],
+  "sequence_length": 90,
+  "architecture": "Medium",
+  "lstm_units": [
+    128,
+    64
+  ],
+  "dropout": 0.1,
+  "mape": 1.3418,
+  "rmse": 4.6048,
+  "trained_on": "2020-01-01 to 2026-05-18"
+}
