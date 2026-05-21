@@ -1,0 +1,26 @@
+{
+  "features": [
+    "Close",
+    "Volume",
+    "RSI",
+    "MACD",
+    "MACD_Signal",
+    "BB_Width",
+    "SMA_20",
+    "SMA_50",
+    "Volume_Ratio",
+    "Daily_Return"
+  ],
+  "label_map": {
+    "0": "SELL",
+    "1": "HOLD",
+    "2": "BUY"
+  },
+  "horizon": 5,
+  "threshold": 0.02,
+  "train_period": "2018-03-14 \u2192 2023-08-14",
+  "test_period": "2023-08-15 \u2192 2024-12-20",
+  "rf_accuracy": 0.2661,
+  "xgb_accuracy": 0.2836,
+  "best_model": "XGBoost"
+}
